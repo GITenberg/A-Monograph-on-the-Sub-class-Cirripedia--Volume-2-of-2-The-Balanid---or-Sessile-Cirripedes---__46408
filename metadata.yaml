@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46408#A-Monograph-on-the-Sub-class-Cirripedia--Volume-2-of-2-The-Balanid---or-Sessile-Cirripedes---_
 gutenberg_issued: '2014-07-25'
 gutenberg_type: Text
 identifiers:
