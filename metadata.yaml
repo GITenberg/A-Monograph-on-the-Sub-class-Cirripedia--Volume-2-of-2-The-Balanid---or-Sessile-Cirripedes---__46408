@@ -1,0 +1,32 @@
+_repo: A-Monograph-on-the-Sub-class-Cirripedia--Volume-2-of-2-The-Balanid---or-Sessile-Cirripedes---__46408
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46408-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Balanidae'
+- !lcsh 'Cirripedia'
+- !lcc 'QH'
+title: 'A Monograph on the Sub-class Cirripedia (Volume 2 of 2)
+
+  The Balanidæ, (or Sessile Cirripedes); the Verrucidæ, etc., etc.'
+url: http://www.gutenberg.org/ebooks/46408
